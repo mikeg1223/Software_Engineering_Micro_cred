@@ -1,0 +1,47 @@
+.row{
+  display: flex;
+  border-style: ridge;
+}
+header{
+  border-style: dotted;
+}
+footer{
+  border-style: dotted;
+}
+body {
+  max-width: 1000px;
+  height: auto;
+  border-style: ridge;
+  margin: auto;
+  background-color: #EBC47A;
+  border-width: thick;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+}
+html {
+  background-color: #91E7EB;
+}
+img.a{
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  vertical-align: middle;
+  border: 2px solid black;
+}
+.img1{
+  flex: 2.865151;
+}
+.img2{
+  flex: 2.830838;
+}
+.img3{
+  flex: 2.829341;
+}
+.img4{
+  flex: 2.818873;
+}
+.img5{
+  flex: 2.885496;
+}
+.img6{
+  flex: 2.94822;
+}
